@@ -1,0 +1,274 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Dissenters guide resolving their doubts and scruples about kneeling at receiving the sacrament / published to prevent men and their families from being ruined by excommunication.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36152</idno>
+            <idno type="STC">Wing D1688</idno>
+            <idno type="STC">ESTC R26719</idno>
+            <idno type="EEBO-CITATION">09527463</idno>
+            <idno type="OCLC">ocm 09527463</idno>
+            <idno type="VID">43493</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36152)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43493)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1329:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Dissenters guide resolving their doubts and scruples about kneeling at receiving the sacrament / published to prevent men and their families from being ruined by excommunication.</title>
+               </titleStmt>
+               <extent>38 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Posture in worship.</term>
+               <term>Dissenters, Religious --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43493:1"/>
+            <p>THE DISSENTERS GUIDE, RESOLVING THEIR <hi>Doubts</hi> and <hi>Scruples,</hi> ABOUT KNEELING At Receiving the Sacrament.</p>
+            <p>Publiſhed to prevent Men and their Fami<g ref="char:EOLhyphen"/>lies from being Ruined by EXCOMMUNICATION.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for, and are to be Sold by <hi>Richard Janeway,</hi> MDCLXXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:43493:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:43493:2"/>
+            <head>THE DISSENTERS GUIDE, RESOLVING THEIR Doubts and Scruples, ABOUT KNEELING At Receiving the <hi>Sacrament,</hi>
+            </head>
+            <p>A Rightly inform'd Conſcience is the in<g ref="char:EOLhyphen"/>diſpenſable Duty of all men to ſeek as a concernment of the greateſt worth; that thereby the irregularities of a Scrupulous Conſcience, may not expoſe men and their Families to that Ruine and Po<g ref="char:EOLhyphen"/>verty which may attend the Guidance there<g ref="char:EOLhyphen"/>of.
+<pb n="2" facs="tcp:43493:3"/>And though if a man cannot deſert all temporal felicity for the ſake of Chriſt, he can neither ever make a ſound Chriſtian, or a good Martyr: Yet men muſt take heed that thoſe Sufferings which attend a Chriſtian life, come upon them from a good warrant; even ſuch an one as is founded on the Divine Truths of the Scriptures, and therefore, what con<g ref="char:EOLhyphen"/>tradicts thoſe truths, is a ſufficient ground for any mans ſufferings. Now whereas Kneeling at the Sacrament hath lately been the occaſion of ſundry mens Sufferings, the tendency of the en<g ref="char:EOLhyphen"/>ſuing Diſcourſe, is to remove thoſe Objections that ſome men may have againſt that manner of Communion, in endeavouring to remove thoſe Objections and Scruples, which may cauſe men to lye liable to Excommunication for Non-Conformity to that Geſture: And the firſt is,</p>
+            <p>
+               <hi>Kneeling ſuits not with the perſon of a Co-heir, therefore it is unlawful.</hi> And why doth it not? Anſwer is made, <hi>That Kneeling is a carriage whereby we acknowledge our ſelves to be in a con<g ref="char:EOLhyphen"/>dition of inferiority and diſ-fellowſhip with Chriſt; whereas Sitting is ſuch a poſition of body, as ar<g ref="char:EOLhyphen"/>gueth not ſubjection and humility, but rather e<g ref="char:EOLhyphen"/>quality and familiarity, therefore Kneeling ſuits not with the perſon of a Co-heir.</hi> I ſhould ra<g ref="char:EOLhyphen"/>ther have reaſoned quite contrary, thus; <hi>We are in a conditon of inferiority and disfellowſhip
+<pb n="3" facs="tcp:43493:3"/>with Chriſt, we owe ſubjection and humility to Chriſt; therefore we ſhould Kneel rather than Sit at receiving of the Sacrament.</hi>
+            </p>
+            <p>It is true: We are Co-heirs with Chriſt, yet this imports not any equallity, Chriſt is the Son of God by nature, we by Adoption and Grace: Chriſt is Heir <hi>ex propria dignitate,</hi> we <hi>ex permiſſione.</hi> Heaven is his by an Eter<g ref="char:EOLhyphen"/>nal Right, our Inheritance is his purchaſe; he is the <hi>Heir of all things;</hi> happy are we if we can obtain the meaneſt Manſions in the King<g ref="char:EOLhyphen"/>dom of Heaven. Which way ſoever we con<g ref="char:EOLhyphen"/>ſider Chriſt, either in his Perſon, Actions, or Offices, we ſhall find him far our Superiour, and conſequently our ſelves in a condition of Inferiority with him: Yea, do we not acknow<g ref="char:EOLhyphen"/>ledge him to be the Head of his whole Church? And that not only as it receives from him ſenſe and motion in the courſe of Chriſti<g ref="char:EOLhyphen"/>anity, but as it owes him ſubjection alſo, in regard of his Sovereignty. And if <hi>the natural head be the moſt noble of all the parts, how ex<g ref="char:EOLhyphen"/>cellent then is he who is the head of the whole Church?</hi>
+            </p>
+            <p>It is true that Chriſt hath advanced our Nature by his Incarnation and Paſſion: But that muſt rather humble us, than puff us up, that we ſhould account our ſelves his fellows.</p>
+            <pb n="4" facs="tcp:43493:4"/>
+            <p>And leſt the white feathers of our Adoption might Swan-like make us ſwell, yet the black feet of our manifold Corruptions may juſtly deject us. The greater favours and honours Chriſt affords us, the more it be<g ref="char:EOLhyphen"/>comes us to be humble.</p>
+            <p>Thus the Bleſſed Virgin, when the Angel delivered that Honourable Embaſſie from the GOD of Heaven, was not lifted up in Pride, but anſwered in an humble faſhion, <hi>Behold the Handmaid of the Lord.</hi> And <hi>John</hi> the Bap<g ref="char:EOLhyphen"/>tiſt, who had the honour to be the inſtru<g ref="char:EOLhyphen"/>ment of our Saviours Inauguration at his Bap<g ref="char:EOLhyphen"/>tiſm, how humbly doth he acknowledge, <hi>His ſhoe latchet I am not worthy to unlooſe!</hi> So, if Chriſt ſhall vouchſafe to eſteem us his Servants, (as the Prodigal Son intreated his Father) we are Bleſſed and happy, tho' we do not account our ſelves his Fellows. <hi>It was no robbery in Chriſt to be equal with God,</hi> but it is no leſs than Luciferian Pride in us, to make our ſelves equal to Chriſt.</p>
+            <p>Object. <hi>But when we come to the Sacrament, we are to act the perſons of Co-heirs, ſo that this ſo this humble deportment cannot then become us.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> Yes ſurely, very well. Our Chri<g ref="char:EOLhyphen"/>ſtian duties muſt not be like <hi>Pharaohs</hi> Kine
+<pb n="5" facs="tcp:43493:4"/>that eat up one another, but like the Cheru<g ref="char:EOLhyphen"/>bins that looked one upon another, and both to the Mercy Seat. Many Virtues, tho' dif<g ref="char:EOLhyphen"/>ferent in themſelves, are ſo connexed, that they conſort very well in the ſame action, as St. <hi>Auſtin</hi> hath obſerved in the Centurion, and the Publican, one receiving Chriſt with much joy, the other with great humility; <hi>Ambo ſal<g ref="char:EOLhyphen"/>vatorem honorificantes diverſo, &amp; quaſi contra<g ref="char:EOLhyphen"/>rio modo;</hi> each of them honouring our Saviour in a diverſe, and as were it a contrary manner. And do we not act the perſons of Co-heirs when we pray? for we ſpeak familiarly to God, as to a Father: yea, it is the Spirit of Adoption that makes us cry <hi>Abba,</hi> Father, at thoſe times when upon our Knees we become humble petitioners to our gracious God for his Favours. Thus joy, humility and confidence may all concur in the very ſame act: Yea, what Duty is exempted from humility, which muſt ballance all our actions? When we hear the Word of God, we muſt bring trembling Souls; when we Pray, it becomes us well to proſtrate our ſelves before the Throne of Grace. And will not the like humble de<g ref="char:EOLhyphen"/>meanour become us when we come to the Table of the Lord? Yes, and to con<g ref="char:EOLhyphen"/>feſs there upon our Knees, <hi>That we are not worthy to gather up the Crums that are under his Table.</hi>
+            </p>
+            <pb n="6" facs="tcp:43493:5"/>
+            <p>Again, it is diſputed that <hi>Kneeling croſsed the aſſurance of our Co-heir-ſhip with Chriſt, and therefore it is unlawful.</hi>
+            </p>
+            <p>
+               <hi>Reſp.</hi> That this Propoſition is untrue, I appeal to the experience of thouſands, who do humbly Kneel at the Receiving of the Sa<g ref="char:EOLhyphen"/>crament. For my ſelf, I have Receiv'd it di<g ref="char:EOLhyphen"/>verſly, and I thank God comfortably. Yet have I Received it with as much fruit and comfort when I Kneeled, as when I uſed o<g ref="char:EOLhyphen"/>ther geſtures. And I am confident thoſe who uſe to Receive it Sitting, do gain no more aſ<g ref="char:EOLhyphen"/>ſurance of their Co-heirſhip, than thoſe who Receive it Kneeling.</p>
+            <p>But let us examine the Reaſons of this poſi<g ref="char:EOLhyphen"/>tion; the firſt whereof is this: <hi>It directeth our hearts to an apprehenſion of disfellowſhip with Chriſt in our future ſtate of Glory repreſented at the Lords Table, by reaſon that it convinceth the performers thereof to be of an inferior, and unfellow-like condition with Chriſt:</hi> Ergo, <hi>it croſ<g ref="char:EOLhyphen"/>ſeth our aſſurance, and therefore it is unlawful.</hi>
+            </p>
+            <p>To this I Anſwer, That there is great dif<g ref="char:EOLhyphen"/>ference between our Co-heirſhip, and equality of Fellowſhhip with Chriſt. For tho' we be now Co-heirs with Chriſt <hi>through Hope;</hi> yet
+<pb n="7" facs="tcp:43493:5"/>do we challenge no Fellowſhip of Equality with him, but acknowledge our due Sub<g ref="char:EOLhyphen"/>jection to him, as our Lord.</p>
+            <p>And when we ſhall hereafter be in actual and real poſſeſſion of our Inheritance, I hope Chriſt ſhall challenge that Priviledge, <hi>In the Kings Throne I will be above thee,</hi> yea <hi>far above all Principality, and Might, and Domination,</hi> &amp;c. So that if Kneeling be a Bar to our E<g ref="char:EOLhyphen"/>quality and Fellowſhip (as well it may) yet is it not any hindrance to the apprehenſion of our Co-heirſhip with Chriſt, which is aſſured to us of our Bleſſed Saviour by Participation of the bleſſed Sacrament, without Conſidera<g ref="char:EOLhyphen"/>tion, Intention, or Inſtitution of any Geſture. For it is a groundleſs Conceit, to hold that Chriſt intended the Geſture of Sitting as a means to give aſſurance of our Co-heirſhip; and it croſſeth their opinions who will have no Geſture, or other Ceremony in the Ser<g ref="char:EOLhyphen"/>vice of God to be Significant.</p>
+            <p>Another Reaſon why Kneeling hinders the Aſſurance of our Co-heirſhip, is this, <hi>Becauſe it Diverteth our hearts from Meditating on the Death of Chriſt; for we cannot at the ſame time Meditate and tender to God a worthy Sacrifice of Prayer.</hi>
+            </p>
+            <pb n="8" facs="tcp:43493:6"/>
+            <p>I Anſwer, that theſe are not ſuch oppoſite employments (as they are called) that they cannot ſtand together. For, if Intention and Prayer may concur, yea ought not to be ſe<g ref="char:EOLhyphen"/>parated, why may not Meditation alſo, which hath great Affinity with the ſame? Yea ſuch correſpondence there is (rather than oppoſi<g ref="char:EOLhyphen"/>tion) between Meditation and Prayer, that they are both comprehended in one Hebrew Word. And ſurely it ſeems ſtrange to me it ſhould be held impoſſible, that at the ſame, inſtant a man ſhould Meditate upon the bene<g ref="char:EOLhyphen"/>fits of Chriſts Paſſion, and Pray that he may have an intereſt therein and benefit thereby.</p>
+            <p>A third Argument to prove Kneeling un<g ref="char:EOLhyphen"/>lawful in the act of Receiving is, <hi>That it doth debar us from Partaking with Chriſt of the Pri<g ref="char:EOLhyphen"/>viledges and Prerogatives of this Table, becauſe it debarreth us from ſocial Admittance and En<g ref="char:EOLhyphen"/>tertainment, in regard we are not at that time and act, of an Equal and Fellow-like condition with Chriſt at his Table.</hi>
+            </p>
+            <p>Firſt, I Anſwer, That civil Tables yield not theſe ſuppoſed Priviledges, and Preroga<g ref="char:EOLhyphen"/>tives of an Equal and Fellow-like condition to every Gueſt. If a poor man were invited to a Noblemans Table, would not an humble
+<pb n="9" facs="tcp:43493:6"/>carriage become him? And could he, with<g ref="char:EOLhyphen"/>out groſs Preſumption, entertain a thought of Equality, and Fellow-like condition with the Invitant? Yet muſt we, poor wretches, by this manner of Reaſoning, hold our ſelves wronged and debaſed, except upon our enter<g ref="char:EOLhyphen"/>tainment at Chriſts Table, we aſſume Pre<g ref="char:EOLhyphen"/>ſumptuous thoughts of an Equal and Fellow-like condition with him the King of Kings.</p>
+            <p>Secondly, It is conſiderable, that this holy Table and Banquet do differ from others which are meerly civil, neither do they yeild us thoſe Priviledges that the civil do.</p>
+            <p>At civil Banquets, being at Table with men of worth, it is civility to put on our hats, but not ſeemly to do ſo at this Holy Banquet.</p>
+            <p>Again, when we are at a civil Table, it is a common liberty and priviledge for a Gueſt to take meat, and carve to himſelf (an action of more moment than a Geſture) but it is not ſo at this Holy Table, where every man muſt receive, only what is delivered to him by the hand of another; neither may he refuſe to take and eat what is delivered him; which comes too ſhort of that liberty we have at a civil Table.</p>
+            <pb n="10" facs="tcp:43493:7"/>
+            <p>And whereas this ſocial Sitting is urged, as an eſſential Priviledge of the Lords Table, it may ſeem ſtrange, that till of late it was never ſo eſteemed, nor held ſo much as any whit ma<g ref="char:EOLhyphen"/>terial. For whereas we find plain Precedents in the ancient Writers for practice of other Geſtures, I ſuppoſe it would be a troubleſome task, to find amongſt them any one evident Record for the Geſture of Sitting at the Sa<g ref="char:EOLhyphen"/>crament.</p>
+            <p>Fourthly, Kneeling is affirmed to be, 1. Re<g ref="char:EOLhyphen"/>pugnant <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the Law of Nature. 2. Becauſe it is repugnant to Decency: 3. Being no Ge<g ref="char:EOLhyphen"/>ſture for a Table of repaſt; and therefore is unlawful.</p>
+            <p>For Anſwer whereunto, I might firſt diſtin<g ref="char:EOLhyphen"/>guiſh between a Civil and a Sacred Table, and ſhew that they require not correſpondence of all Comportments, as before I ſhewed. But it is obſervable, that Nature hath not pre<g ref="char:EOLhyphen"/>ſcribed any ſuch particular Table-Geſture, as Sitting, Standing, or Kneeling at our Meat. We know that the <hi>Muſcovites</hi> neither have any Table, nor do Sit at their meats as we do. And we read that the Jews leaned, ſo that their Geſture was nearer Lying, than Sitting. Now theſe Geſtures, in our conceits, ſeem very Indecent (as M. <hi>Calvin</hi> hath obſerved
+<pb n="11" facs="tcp:43493:7"/>concerning the Geſture of the Jews) becauſe they are diſſonant from ours: Yet far be it from us to ſay they are repugnant to the Law of Nature; for ſo we ſhould tax our Saviour &amp; his Servants for that they could not juſtifie. Neither may we fitly ſay theſe Geſtures are indecent, except we be content that they ſhall likewiſe cenſure ours, which no doubt ſeem ſo to them. And if it were granted, that Kneel<g ref="char:EOLhyphen"/>ing at a Table of common Repaſt, were in all mens judgments indecent, yet can it not be ſo concluded for our Kneeling at the Lords Table, where we are to eſteem our ſelves rather Beggers than Benchers. If the more general Judgment and Practice of men, both Wiſe, Learned, and Religious, might prevail, I aſ<g ref="char:EOLhyphen"/>ſure my ſelf, the Geſture of Kneeling would be accounted Decent; and the beſt reaſon that can be given to the contrary is, that they which write againſt it, do not think it ſo.</p>
+            <p>But for the further clearing of this Point, we muſt underſtand, that the Law of Na<g ref="char:EOLhyphen"/>ture is taken properly and improperly; pro<g ref="char:EOLhyphen"/>perly, as it is <hi>Dictamen rationis,</hi> that which Nature doth dictate to all Nations: Impro<g ref="char:EOLhyphen"/>perly, as it is a Cuſtom of ſome particular Country.</p>
+            <pb n="12" facs="tcp:43493:8"/>
+            <p>As for inſtance, the Apoſtle condemneth mens wearing of long hair, as a thing re<g ref="char:EOLhyphen"/>pugnant to Nature; not becauſe it was againſt the general Law or Rule of Nature: for the <hi>French, Germans, Romans, Engliſh,</hi> and di<g ref="char:EOLhyphen"/>vers other Nations, as their Writings and Monuments do Witneſs, have uſed in ſundry Ages to wear long Hair; yea, the <hi>Spartans</hi> eſpecially, becauſe it is an Ornament of little Charge; but becauſe Cuſtom, which is a<g ref="char:EOLhyphen"/>nother Nature, had made it as it were natu<g ref="char:EOLhyphen"/>ral for the <hi>Corinthians</hi> to wear it ſhort, the Apoſtle doth condemn them for Violating the ſame. And ſo Cuſtom having amongſt us made that Geſture, which was of it ſelf In<g ref="char:EOLhyphen"/>different, the moſt Solemn and Seemly Ge<g ref="char:EOLhyphen"/>ſture at the Lords Table, thoſe that impugn and condemn the ſame, come under the A<g ref="char:EOLhyphen"/>poſtles Cenſure, and diſpute againſt them<g ref="char:EOLhyphen"/>ſelves.</p>
+            <p>Again it is diſputed, that Kneeling is a pri<g ref="char:EOLhyphen"/>vate Worſhip during the time and act of the Publick: <hi>Ergo,</hi> it is unlawful. And why is it a private Worſhip? Becauſe it preſents a Worſhip wherein the Congregation doth not joyntly partake; for they are not ap<g ref="char:EOLhyphen"/>pointed to Kneel, when the Receiver doth Kneel.</p>
+            <pb n="13" facs="tcp:43493:8"/>
+            <p>I Anſwer, 1. This Argument condemns directly thoſe Congregations where the Sacra<g ref="char:EOLhyphen"/>ment is Received Standing; for whilſt ſome do Stand at the Table, others Sit in remote places, and are not appointed to Stand when the Re<g ref="char:EOLhyphen"/>ceivers Stand: So that the Congregation not partaking with them in the act of Standing, they preſent a private Worſhip.</p>
+            <p n="2">2. It Condemns divers Congregations where the Sacrament is Received either Sit<g ref="char:EOLhyphen"/>ting or Standing. For in thoſe Churches wherein I have ſeen moſt preciſeneſs in the time of Celebration of the Sacrament, whilſt ſome are Receiving, others are imployed, ei<g ref="char:EOLhyphen"/>ther in ſinging of Pſalms, or hearing ſome Scripture read. Now theſe actions, of ſing<g ref="char:EOLhyphen"/>ing and reading the Scriptures are more diſ<g ref="char:EOLhyphen"/>ſonant from Meditation, than Prayer is, and therefore if the one be unlawful, the other muſt needs be ſo.</p>
+            <p>Yea, this condemns all Congregations in the World, upon a ground of impoſſibility; for it is uſual that ſome one, or few, are Re<g ref="char:EOLhyphen"/>ceiving whilſt others are not (which cannot poſſibly be otherwiſe, except there were as many to deliver the Sacrament, as there are to Receive it at the ſame inſtant) ſo that the Congregation doth not, in your account,
+<pb n="14" facs="tcp:43493:9"/>joyntly partake in preſenting the ſame Wor<g ref="char:EOLhyphen"/>ſhip, except you will ſay that bare Medita<g ref="char:EOLhyphen"/>tion upon the Sacrament is the ſame that actual Receiving is. Now if this actual Re<g ref="char:EOLhyphen"/>ceiving by ſome particular Perſons, being a ſubſtantial Action, do not croſs the publick Worſhip, but may have concurrence with it, how much leſs can a circumſtantial Geſture of a particular Perſon do it? Actions that have ſuch affinity, may concur in the ſame Worſhip, without oppoſition of Publick and Private.</p>
+            <p>Laſtly, I may truly ſay, that this Argu<g ref="char:EOLhyphen"/>ment is a meer Paradox, which, to avoid Kneeling, excludes Praying; inſomuch that if a Communicant, during the time of pub<g ref="char:EOLhyphen"/>lick Adminiſtration, and after he hath Re<g ref="char:EOLhyphen"/>ceive the Sacrament, do but beſeech God to Bleſs the ſame unto him, that it may be a means to Strengthen his Faith, to help him in the act of Mortification, and building of him up in Grace, by this reaſon he ſhall Sin a<g ref="char:EOLhyphen"/>gainſt God; than which what can be more abſurd?</p>
+            <p>To Kneel at the Sacrament, is to leave the imitable Practice of Chriſt and his Apoſtles, and in lieu thereof to obſerve a worſe, therefore it is unlawful.</p>
+            <pb n="15" facs="tcp:43493:9"/>
+            <p>
+               <hi>Reſp.</hi> In this Argument two things are to be conſidered; Firſt, whether we vary from the practice of Chriſt? and this I confidently deny; neither ſhall it be poſſible for any man, out of the Scriptures, to prove directly what Geſture Chriſt uſed at the Inſtitution of the Supper.</p>
+            <p>Secondly, If it were granted, that our Sa<g ref="char:EOLhyphen"/>viour, and his Servants the Apoſtles did Ce<g ref="char:EOLhyphen"/>lebrate and Receive it Sitting; yet are we not neceſſarily tyed to imitate them therein.</p>
+            <p>It is truly ſaid, that to <hi>Reſtrain our imita<g ref="char:EOLhyphen"/>tion of Chriſt and his Apoſtles, to every parti<g ref="char:EOLhyphen"/>cular circumſtance of their Carriage, were a<g ref="char:EOLhyphen"/>gainſt common ſenſe.</hi> And howſoever in Mo<g ref="char:EOLhyphen"/>ral actions we ought to follow Chriſt in matter of ſubſtance, yet are we not alwaies ſo in reſpect of circumſtance, eſpecially where there is no Precept. Now that the Geſture is not of the ſubſtance of the Sacrament, it is clearly evinced, in that neither the Evangeliſts, nor the Apoſtle, doth once mention it: For who dares affirm that any ſubſtantial matter is omitted by them, who have handled the Doc<g ref="char:EOLhyphen"/>trine of the Sacrament moſt Excellently and Exactly? But to make this more evident by as inſtance; It was our Saviour Cuſtom to
+<pb n="16" facs="tcp:43493:10"/>Preach Sitting, as all the Evangeliſts do ſhew, and Saint <hi>Auſtin</hi> gives reaſon for it; name<g ref="char:EOLhyphen"/>ly, becauſe it doth very well agree with the Dignity of a Teacher; yet the moſt pre<g ref="char:EOLhyphen"/>ciſe do not imitate him therein, but uſe to ſtand when they Preach, though the People Sit. Now (ſuppoſing that Chriſt Sate at the Inſtitution of the Supper) if the general Practice in the one doth not tye us to imi<g ref="char:EOLhyphen"/>tation, how can one individual act do it in the other?</p>
+            <p>So that if we ſhould grant, that our Sa<g ref="char:EOLhyphen"/>viour and his Apoſtles did Celebrate and Receive the Sacrament Sitting; yet both by the Poſitions and Practice of them who are our Oppoſites we are in this matter of cir<g ref="char:EOLhyphen"/>cumſtance freed from neceſſity of Imitation. Yea, if Sitting had been Chriſts Geſture, and we bound to Imitation, how durſt the ancient Churches, and divers modern Con<g ref="char:EOLhyphen"/>gregations make Standing their uſual Ge<g ref="char:EOLhyphen"/>ſture in Celebrating the Sacrament; as you do write of the one, and experience ſhews of the other?</p>
+            <p>The Seventh Argument; <hi>Kneeling in the Act of Receiving, is a Bowing down before a Conſecrated Creature, out of a Religious and Reverent Reſpect of it, and ſo is a<g ref="char:EOLhyphen"/>gainſt
+<pb n="17" facs="tcp:43493:10"/>the Second Commandment, and conſe<g ref="char:EOLhyphen"/>quently is unlawful.</hi>
+            </p>
+            <p>I Anſwer, That Kneeling at the Com<g ref="char:EOLhyphen"/>munion is no breach of the Second Com<g ref="char:EOLhyphen"/>mandment. It will be evident, if we con<g ref="char:EOLhyphen"/>ſider the branches of the Commandment, which are two. The firſt, that we make not any graven Image to our ſelves, that is, of our own heads: Now the Sacrament, and Elements in the Sacrament, are no humane inventintion, but Gods Sacred Or<g ref="char:EOLhyphen"/>dinance, which Chriſt himſelf hath com<g ref="char:EOLhyphen"/>manded, and left to perpetuate the Remem<g ref="char:EOLhyphen"/>brance of his Death till his Coming to Judg<g ref="char:EOLhyphen"/>ment; and therefore we offend not againſt the firſt Branch.</p>
+            <p>The Second Branch of the Command<g ref="char:EOLhyphen"/>ment forbids the Bowing down to an I<g ref="char:EOLhyphen"/>mage, which imports the giving of Reli<g ref="char:EOLhyphen"/>gious Worſhip to any Creature; and this we utterly diſclaim; for although we Kneel at the Sacrament, yet we do not Kneel to the Sacrament, but to God the Author of the Sacrament. And this may appear to any, who loves not to be contentious; for that in the act of Receiving only, and not of be<g ref="char:EOLhyphen"/>holding the Sacrament, we do Kneel. It is confeſſed, by way of approbation, that
+<pb n="18" facs="tcp:43493:11"/>the <hi>Ancient Fathers carried a reverent Regard to the Bread and Wine of the Lords Supper, and had a Reverent Conceit of them.</hi> And ſo do we likewiſe Revere the Sacrament, as an Excellent Ordinance of Almighty God, yet is not that the cauſe we Kneel, but the Majeſty of our God, to whom at that in<g ref="char:EOLhyphen"/>ſtant we Pray; and the Mercy of our God, who vouchſafeth us this great Bleſſing, cauſeth us to humble our ſelves. And if we Receive upon our Knees temporal Fa<g ref="char:EOLhyphen"/>vours at the hands of mortal Princes, how much more will it become us to Receive this ineſtimable ſpiritual Favour from the hands of of the Immortal God, with all ſub<g ref="char:EOLhyphen"/>miſſion and Reverence?</p>
+            <p>If the Worſhip at our Receiving, did de<g ref="char:EOLhyphen"/>termine in the Sacrament, or were tran<g ref="char:EOLhyphen"/>ſient by it to God; As the <hi>Romaniſts</hi> di<g ref="char:EOLhyphen"/>verſly hold concerning the Worſhip of their Images, then would we not Juſtifie our Acti<g ref="char:EOLhyphen"/>on. But foraſmuch as it is tendred imme<g ref="char:EOLhyphen"/>diately to God, there is no Juſt cauſe of Condemning our Practice. For we give to the Sacrament that which belongs to the Sa<g ref="char:EOLhyphen"/>crament, namely, a reverent eſtimation; and to God, that which belongs to God, That is, Humble Adoration.</p>
+            <pb n="19" facs="tcp:43493:11"/>
+            <p>This Argument uſed in the Diſpute, is like <hi>Bellarmin,</hi> to prove the Adoring of Creatures; for whereas it is ſaid in the Ninety ninth Pſalm, the fifth verſe, <hi>Fall down before his footſtool,</hi> the Cardinal would infer, that the Ark was adored. And thus our diſputants, becauſe we Kneel before the Sacrament, do conclude that we Kneel to the Sacrament.</p>
+            <p>But indeed, as the four and twenty El<g ref="char:EOLhyphen"/>ders falling down to him that ſate on the Throne, though they fell down before the Throne, did not Worſhip the Throne, but him that <hi>Lives for ever:</hi> So we, when we Kneel before the Sacrament, at the Receiv<g ref="char:EOLhyphen"/>ing of it, do not Kneel to the Sacrament, but to Chriſt the Author of the Sacra<g ref="char:EOLhyphen"/>ment, <hi>Who is God bleſſed for ever.</hi>
+            </p>
+            <p>The eighth Argument is this: <hi>It was brought in by that Antichriſt of</hi> Rome, <hi>for the Worſhip of his Breaden-god, therefore it cannot Lawfully be entertained by the true Pro<g ref="char:EOLhyphen"/>feſſors of the Goſpel.</hi>
+            </p>
+            <p>For Anſwer to which, I deny both parts of the Argument. Concerning the Ante<g ref="char:EOLhyphen"/>cedent, it hath two Branches, and neither ſound: The one, That Kneeling was brought
+<pb n="20" facs="tcp:43493:12"/>in by that Antichriſt of <hi>Rome;</hi> the other, that it was brought in for the Worſhip of his Bread<g ref="char:EOLhyphen"/>en-god.</p>
+            <p>Now to the Firſt, I demand what Antichriſt that was who brought in Kneeling at the Sacra<g ref="char:EOLhyphen"/>ment? Some there are, who pe<g ref="char:EOLhyphen"/>remptorily affirm that it was <hi>Ho<g ref="char:EOLhyphen"/>norius</hi> the Third. But that is not true; For although <hi>Honorius</hi> made a Decree for the Adoring of the Sacrament, at the time of Eleva<g ref="char:EOLhyphen"/>tion; yet we find not one ſyl<g ref="char:EOLhyphen"/>lable to prove that he decreed any Geſture for the time and act of participation. Yea, it is confident<g ref="char:EOLhyphen"/>ly affirmed by him who wrote the Diſpute, that Kneeling in the Act of Receiving, was not brought in by <hi>Honorius.</hi>
+            </p>
+            <pb n="21" facs="tcp:43493:12"/>
+            <p>Now if you demand, by whom was it then brought in? Silence or Ignorance muſt be the Anſwer. But methinks, ſuch a confident aſſertion, that both croſſeth the practice, and troubleth the peace of the Church, ſhould have ſome direct and poſitive Proof, and not depend upon probability. In<g ref="char:EOLhyphen"/>ſtead wherof there is this reaſon given: We find neither Decree nor practice of Kneeling, till after the time of <hi>Honorius:</hi> there<g ref="char:EOLhyphen"/>fore it is not like, that either he, or any before him brought it in. But if that reaſon be good, then I may conclude, that it was neither decreed by <hi>Honorius,</hi> nor any other Biſhop of <hi>Rome</hi> fol<g ref="char:EOLhyphen"/>lowing, becauſe we find no De<g ref="char:EOLhyphen"/>cree thereof upon Record.</p>
+            <pb n="22" facs="tcp:43493:13"/>
+            <p>It is further Affirmed, that ſit<g ref="char:EOLhyphen"/>ting was the Geſture in the act of Receiving in the time of the In<g ref="char:EOLhyphen"/>ſtitution, and divers years after; and then ſtanding, from about the year one hundred and fifty, to the year one thouſand two hun<g ref="char:EOLhyphen"/>dred and twenty and upward.</p>
+            <p>I Anſwer, That concerning the Geſture uſed by Chriſt in the In<g ref="char:EOLhyphen"/>ſtitution, I have already ſpoken; and now I will very briefly exa<g ref="char:EOLhyphen"/>mine the Teſtimonies inferred for proof of the Ages ſucceeding.</p>
+            <p>Where firſt, <hi>Juſtin Martyr</hi> ſaith, <hi>After the Paſtors Exhortation upon the Sundays, we all riſe up and pray, and afterward the Sacrament is deli<g ref="char:EOLhyphen"/>vered to every one.</hi>
+            </p>
+            <p>Now ſaith the Diſpute, if the people had Kneeled in the time of
+<pb n="23" facs="tcp:43493:13"/>Receiving, he would as well have ſhewed that, as the other practi<g ref="char:EOLhyphen"/>ces in praying and hearing the Word God. For Anſwer where<g ref="char:EOLhyphen"/>unto might not I ſay, If the people had ſtood or ſate in the time of Re<g ref="char:EOLhyphen"/>ceiving, would he not as well have ſhewed that, as the other practices in praying and hearing the Word? But further, I ſay, had that Father eſteemed the Geſture at the Sacra<g ref="char:EOLhyphen"/>ment a thing ſo material, as you account it, doubtleſs he would have ſhewed their practice; but becauſe he did not ſo eſteem it, he did not at all mention it. For whereas it is ſaid, <hi>We will riſe up and pray:</hi> That riſing up from their ſeats, might be as well to Kneel as to Stand.</p>
+            <p>
+               <hi>Clemens Alexandrinus</hi> ſaith, that <hi>when ſome have divided the Sacrament, they ſuffer every one of the people to take
+<pb n="24" facs="tcp:43493:14"/>his part.</hi> Now how could they take their parts without being reached to them, except they ſtood or ſate at the Table?</p>
+            <p>To this I might Anſwer, that <hi>umere partem, to take his part,</hi> doth not neceſſarily import an imme<g ref="char:EOLhyphen"/>diate taking without delivering. And further, if it be granted, that in the Church of <hi>Alexandria</hi> they ſtood at the Table and took the Sacrament themſelves, yet it is e<g ref="char:EOLhyphen"/>vident by that place in <hi>Justin Mar<g ref="char:EOLhyphen"/>tyr</hi> before mentioned, and likewiſe by <hi>Tertullian,</hi> and others, that in other Churches the Sacrament was delivered to the people by the hands of their Paſtors, which might be done without Sitting or ſtanding at the Table.</p>
+            <p>For the Age 300. <hi>Euſebius</hi> is al<g ref="char:EOLhyphen"/>leged, to prove Sitting at the Com<g ref="char:EOLhyphen"/>munion,
+<pb n="25" facs="tcp:43493:14"/>from a compariſon of the Chriſtians with the Philoſophers, mentioned in <hi>Philo Judeus.</hi> The indirectneſs of which collection I might eaſily ſhew, were it material. But what need I do it, when it has been done ſo often to my hands already?</p>
+            <p>For the year 400. <hi>Chryſoſtom</hi> is cited, who ſaith, <hi>Fruſtra stamus ad altare, In vain we ſtand at the Altar.</hi> But what is that to the peoples Geſture in Receiving? For <hi>Chry<g ref="char:EOLhyphen"/>ſoſtom</hi> ſpeaks only of the Miniſters Geſture in the time of Divine Service and Sacrament, at which the people were not preſent; and therefore there is no mention of their Geſture.</p>
+            <p>It has been ſaid by ſome that, <hi>If</hi> Gregory <hi>and many more Fathers and Doctors, ſhould in their writings men<g ref="char:EOLhyphen"/>tion
+<pb n="26" facs="tcp:43493:15"/>that</hi> Gorgonia, <hi>and ſundry others, proſtrated themſelves on their Knees in the act of partaking at the Lords Table, the ſame is no diſadvantage to the preſent question.</hi> The reaſon intended is, becauſe ſuch (though many) par<g ref="char:EOLhyphen"/>ticulars do not ſhew the practice of the Church. And may not I uſe the ſame words concerning <hi>Dionyſius</hi> in <hi>Euſebius,</hi> and <hi>Clemens Alexandrinus</hi> in his <hi>Stromats?</hi> Can that which they Write of ſome particular Church, ſhew the pra<g ref="char:EOLhyphen"/>ctice of the Univerſal?</p>
+            <p>Laſtly, the Cuſtom and Conſti<g ref="char:EOLhyphen"/>tutions of the Church are urged, which from the Second Age of the Church, to the Year 1220. forbad Kneeling at Prayer, on every Lords Day; for if Kneeling at Prayers was removed, it cannot be imagined that Kneeling at the Sa<g ref="char:EOLhyphen"/>crament ſhould be allowed. Now
+<pb n="27" facs="tcp:43493:15"/>to prove that Kneeling at prayers was removed generally on the Lords Day, divers Fathers and Councels are inferred, yet ſome of them inconſideratly, and imperti<g ref="char:EOLhyphen"/>nently (that I ſay not cunningly) as namely <hi>Cyprian, Stamus ad orationem, We ſtand at prayer;</hi> as though this had been the only geſture, where<g ref="char:EOLhyphen"/>as he ſaith, <hi>quando ſtamus ad oratio<g ref="char:EOLhyphen"/>nem, when we ſtand at prayer,</hi> with<g ref="char:EOLhyphen"/>out reference to time or place, And the like may be ſaid of <hi>An<g ref="char:EOLhyphen"/>ſelme,</hi> cited after the ſame man<g ref="char:EOLhyphen"/>ner.</p>
+            <p>Again, inconſideratly, as that of <hi>Baſil, de ſpiritu ſancto,</hi> cap. 27. For not only <hi>Eraſmus</hi> ſufficiently, but Mr. <hi>Cooke</hi> abundantly hath ſhewed, that this Book of <hi>Baſils,</hi> or at leaſt the later part of it, (whereof this 27th. Chapter is a part) is a meer counterfeit.</p>
+            <pb n="28" facs="tcp:43493:16"/>
+            <p>Concerning the teſtimonies of <hi>Tertullian,</hi> and the Councel of <hi>Nice,</hi> they indeed ſeem to teſtifie this practice of Praying ſtanding on the Lords Day. but yet that this was not an univerſal practice, it may appear by St. <hi>Austin</hi>'s Addu<g ref="char:EOLhyphen"/>bitation, who <hi>Epiſt.</hi> 119. ſaith, <hi>
+                  <g ref="char:V">Ʋ</g>t autem ſtantes in illis diebus &amp; omni<g ref="char:EOLhyphen"/>bus Dominicis oremus, uterum obique ſer<g ref="char:EOLhyphen"/>vetur ignoro: That we Pray ſtanding on thoſe and every Lords Day, whether it be every where obſerved do I not know.</hi> And more evidently by <hi>Chryſoſtom's</hi> Relation of the Churces Practice in thoſe Parts; which accords di<g ref="char:EOLhyphen"/>rectly with ours at this day. <hi>Be<g ref="char:EOLhyphen"/>fore the Celebration of the Sacrament,</hi> (ſaith he) <hi>Prayers are made in ge<g ref="char:EOLhyphen"/>neral for all People, and after that, thoſe who do not communicate, are diſmiſſed, another Prayer is begun, wherein we all</hi> (not ſtand, but) <hi>cast our ſelves
+<pb n="29" facs="tcp:43493:16"/>down in Prayer together, and riſe up to<g ref="char:EOLhyphen"/>gether.</hi> By theſe Teſtimonies it is evident that Kneeling at Prayer was not generally removed every Lords Day, and conſequently the foundation of this Argument doth fail. Again, the Inference, if the Antecedent were granted, is not good; They did not Kneel upon the Lords Day at Prayer; <hi>Ergo,</hi> not at the Sacrament.</p>
+            <p>Thus we ſee, that what hath been urged and alledged, doth not prove the firſt Branch of the An<g ref="char:EOLhyphen"/>tecedent; namely, That <hi>Kneeling in the Act of Receiving, was brought in by that Antichrist of</hi> Rome; and therefore much leſs ean the ſecond be proved, <hi>viz.</hi> That <hi>it was brought in for Worſhip of a Breaden God.</hi> For, as we find no footing concerning the Author, ſo much leſs concer<g ref="char:EOLhyphen"/>ning that End.</p>
+            <pb n="30" facs="tcp:43493:17"/>
+            <p>Now as the Antecedent is un<g ref="char:EOLhyphen"/>certain, So is the Argument un<g ref="char:EOLhyphen"/>ſound: <hi>Some Antichriſtian Biſhop brought in Kneeling in the Act of Re<g ref="char:EOLhyphen"/>ceiving:</hi> or thus; <hi>It hath been abu<g ref="char:EOLhyphen"/>ſed to Idolatry by ſome Antichriſtian Biſhop; therefore it is unlawful.</hi> A man might as well reaſon thus; <hi>It was proper and peculiar to the Sacri<g ref="char:EOLhyphen"/>fices of</hi> Hercules, <hi>that the Heathen did celebrate them Sitting; therefore it is not lawful for Chriſtians to celebrate this Euchariſtical Sacrifice of the Lords Supper ſo.</hi> The unclean Spirit ſaid to our Saviour, <hi>Thou art the Holy One of God;</hi> and the Spirit of Di<g ref="char:EOLhyphen"/>vination, by the Damoſel con<g ref="char:EOLhyphen"/>cerning <hi>Paul</hi> and <hi>Silas, Theſe men are the Servants of God;</hi> (yea, and this they ſpake to evil ends) there<g ref="char:EOLhyphen"/>fore we may not ſay ſo. Yea, if this Argument be good, we muſt remove Fire from our Houſes,
+<pb n="31" facs="tcp:43493:17"/>the Sun out of the Heavens, Bells out of Steeples, Fonts out of Chur<g ref="char:EOLhyphen"/>ches, Churches out of the world, becauſe the <hi>Chaldeans</hi> abuſed the one, the <hi>Perſians</hi> the other, and the <hi>Papists</hi> the reſt. The places of Scri<g ref="char:EOLhyphen"/>pture cited for proof of the Argu<g ref="char:EOLhyphen"/>ment, are very impertinent: Some which have a particular reference, are made too general, as that in <hi>Leviticus.</hi> For whereas it is ſaid, <hi>After the doings of the Land of</hi> Egypt, <hi>and the Land of</hi> Canaan, <hi>you ſhall not do;</hi> that hath relation to thoſe ſins of Uncleanneſs which are menti<g ref="char:EOLhyphen"/>oned in the ſame Chapter. And the ſame being general, can no more abide the Light than this; <hi>After the manner of the</hi> Pagans <hi>and</hi> Papiſts <hi>ſhall you not do; but the</hi> Pa<g ref="char:EOLhyphen"/>gans <hi>and</hi> Papiſts <hi>do kneel in Prayer; therefore you ſhall not kneel in Prayer.</hi> Or rather thus: <hi>The</hi> Papiſts <hi>and</hi> Pagans <hi>do kneel to their Idols, there<g ref="char:EOLhyphen"/>fore
+<pb n="32" facs="tcp:43493:18"/>Profeſſors if the Goſpel may not kneel to God:</hi> For ſo indeed it is in<g ref="char:EOLhyphen"/>ferred; becauſe the <hi>Papists</hi> in the Act of Receiving, do kneel to the Bread, therefore we in the ſame Act may not kneel to God.</p>
+            <p>The other Places require the defacing of Images and Idols, but what is that to Kneeling? For there is great difference between that which is in it ſelf lawful, and that which is unlawful, as their Idols were, which repreſented Falſe Gods; between a permanent Subſtance and a tranſient Action; between that which may have good uſe, and that which cannot.</p>
+            <p>If <hi>Antichriſt</hi> hath ſtained this Geſture by his Idolatry, ſhall <hi>Chriſtians</hi> therefore, having pur<g ref="char:EOLhyphen"/>ged it, be debarred of their law<g ref="char:EOLhyphen"/>ful Intereſt therein? Or rather,
+<pb n="33" facs="tcp:43493:18"/>as the <hi>Iſraelite,</hi> having taken in war a Woman amongſt the Enemies, when he had ſhaved her head and pared her nails, might take her home as his own; may not the Church of God take this Geſture, being pared and purged from <hi>Ro<g ref="char:EOLhyphen"/>miſh</hi> corruption, and apply it to the Service of God?</p>
+            <p>Mr. <hi>Cartwright</hi> tells us, That, <hi>If amongst the</hi> Romiſh <hi>filth we find any good thing, that we willingly receive, not as theirs, but as the</hi> Jews <hi>did the holy Ark from the</hi> Philiſtims. For (ſaith he) <hi>herein it is true that is ſaid, The Sheep muſt not lay down her Fell, becauſe ſhe ſees the Wolf ſometimes cloathed with it.</hi> St. <hi>Austin</hi> ſhews that we may lawfully uſe the wa<g ref="char:EOLhyphen"/>ter of Fountains, and woods of the Foreſts, which by <hi>Pagans</hi> have been dedicated to their Idols, <hi>Epiſt.</hi> 154. And may we not uſe that Ge<g ref="char:EOLhyphen"/>ſture
+<pb n="34" facs="tcp:43493:19"/>that hath been abuſed to I<g ref="char:EOLhyphen"/>dolatry?</p>
+            <p>But it is Objected, That <hi>this Ge<g ref="char:EOLhyphen"/>ſture can never be purged;</hi> And to this purpoſe are urged the Poſiti<g ref="char:EOLhyphen"/>ons of ſundry learned men, who would that all things which have appearance of <hi>Popery</hi> be baniſhed; and the ſame is confirmed by the practice of divers Godly men in the like caſe.</p>
+            <p>To which I anſwer; Firſt, That this Poſition is ſtrange, which will admit no poſſibility of purging any Ceremonies corrupted in the Church of <hi>Rome.</hi>
+            </p>
+            <p>Mr. <hi>Robinſon,</hi> a Diſſenter, ſaith, <hi>We do acknowledge it</hi> (meaning in the Church of <hi>England</hi>) <hi>many ex<g ref="char:EOLhyphen"/>cellent Truths of Doctrine, which we alſo teach, and many Christian Ordi<g ref="char:EOLhyphen"/>nances, which we alſo practiſe, being purged from the pollution of Antichrist.</hi>
+            </p>
+            <p>Let us further conſider the O<g ref="char:EOLhyphen"/>pinions
+<pb n="35" facs="tcp:43493:19"/>of ſundry eminent and learned men in this Caſe.</p>
+            <p>
+               <hi>Beza</hi> ſaith of this very Geſture, <hi>Epist.</hi> 12. <hi>Geniculatio ſpeciem habet piae venerations,</hi> &amp;c. <hi>This Bowing of the Knee hath a Kind of godly Reverence, and therefore it might heretofore be uſed to good purpoſe,</hi>
+            </p>
+            <p>Biſhop <hi>Jewel</hi> ſaith, <hi>I grant that Sitting, Standing, and other like Cere<g ref="char:EOLhyphen"/>monies in the holy Miniſtration, are left to the diſcretion of the Church.</hi>
+            </p>
+            <p>Yea, Mr. <hi>Cartwright</hi> acknowledg<g ref="char:EOLhyphen"/>eth again and again, That <hi>Sitting is not neceſſary;</hi> and though he ſay, that <hi>Kneeling ts dangerous,,</hi> yet he ſaith not that it is <hi>unlawful.</hi>
+            </p>
+            <p>
+               <hi>Peter Martyr</hi> ſaith in general, <hi>I cannot be perſwaded,, that the wicked<g ref="char:EOLhyphen"/>neſs of the Pope is ſuch, that whatſoe<g ref="char:EOLhyphen"/>ver he toucheth must thereupon be pollu<g ref="char:EOLhyphen"/>ted, that afterwards it may not be of uſe to the Godly.</hi>
+            </p>
+            <p>And concerning this Matter in
+<pb n="36" facs="tcp:43493:20"/>particular, he ſaith elſewhere, <hi>It is no matter of Difference, whether we receive the Sacrament, ſitting, ſtanding, or kneeling, ſo that Chriſts in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſitution be preferred, and occaſion of Superſtition removed.</hi>
+            </p>
+            <p>And ſurely thoſe are bad Chi<g ref="char:EOLhyphen"/>rurgeons that have no other means of Cure but only by the Saw and the Cautery.</p>
+            <p>Again the Fact of <hi>Hezekiah</hi> may be objected, who did not ſeek to purge, but brake in pieces the Brazen Serpent; and the practice of our Saviour Chriſt, who held it not ſufficient by Doctrine to ſpeak againſt the Jewiſh Waſh<g ref="char:EOLhyphen"/>ings, and ſo to uſe them to ano<g ref="char:EOLhyphen"/>ther end, but refuſed that Cuſtom wholly.</p>
+            <p>Hereunto I anſwer, firſt, parti<g ref="char:EOLhyphen"/>cular Facts, even of worthy men, do not tie us neceſſarily to imita<g ref="char:EOLhyphen"/>tion. <hi>Moſes</hi> proceeded far againſt
+<pb n="37" facs="tcp:43493:20"/>the <hi>Iſraelites</hi> Idolatry, when <hi>he took the Golden Calf, burnt it in the fire, and ground it to powder, ſtrewed it upon the water, and made them drink of it.</hi> What, have others ſinned that have not done the like?</p>
+            <p>Again, there is great difference between the Brazen Serpent and Kneeling at the Communion, both in their Nature and Uſe. In their Nature, the one being a tranſient action, the other a permanent ſub<g ref="char:EOLhyphen"/>ſtance, and conſequently more apt to be abuſed to Idolatry. In their Uſe; for the vertue of Cure being vaniſhed, the Brazen Ser<g ref="char:EOLhyphen"/>pent ceaſed to be of uſe; but the Act of Kneeling will ever remain neceſſary, to manifeſt our humble thankfulneſs for ſo great Benefits as we receive by the bleſſed Sacra<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="3">3. There was great cauſe why <hi>Hezekiah</hi> ſhould thus proceed a<g ref="char:EOLhyphen"/>gainſt
+<pb n="38" facs="tcp:43493:21" rendition="simple:additions"/>the Brazen Serpent, in re<g ref="char:EOLhyphen"/>gard that <hi>to thoſe days the Children of</hi> Iſrael <hi>burnt incenſe unto it:</hi> But ſo is not the Geſture of Kneeling abu<g ref="char:EOLhyphen"/>ſed by us, and therefore needs not ſuch an abſolute aboliſhing.</p>
+            <p>And for our Saviours Practice, it is rather with us than againſt us; for though he did ſhun the Superſtitious Waſhings of the <hi>Pha<g ref="char:EOLhyphen"/>riſees,</hi> yet who can think that he did utterly forbear all civil and wholſom waſhing before meat? So we do ſhun and deteſt the Ido<g ref="char:EOLhyphen"/>latrous Kneeling of the <hi>Papiſts</hi> at the Sacrament; but to abandon Kneeling totally, we have no cauſe nor warrant.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43493:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
